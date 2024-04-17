@@ -34,8 +34,3 @@ We welcome contributions from the community! To contribute, follow these steps:
 4) Push the changes to your forked repository.
 
 5) Create a pull request and describe the changes you made.
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
