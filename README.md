@@ -1,4 +1,4 @@
-Grammar and Spell Checker NLP
+**Grammar and Spell Checker NLP**
 This project aims to build a grammar and spell checker using Natural Language Processing (NLP) techniques.
 Features
 Spell checking using popular NLP libraries like NLTK, SpaCy, or PyTorch
