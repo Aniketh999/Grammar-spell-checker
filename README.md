@@ -14,7 +14,7 @@ To use the grammar and spell checker, follow these steps:
 
 1.Prepare your text file or input text.
 
-2.Run the application using the command:
+2.Run the application using the command.
 
 ```python
 python main.py [input-text-file]
